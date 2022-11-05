@@ -1,5 +1,3 @@
-![Latest Release Download Count](https://img.shields.io/github/downloads/PepijnMC/ElevationDragRuler/latest/module.zip?color=2b82fc&label=latest%20release%20downloads&style=for-the-badge)
-![Foundry Core Compatible Version](https://img.shields.io/badge/dynamic/json.svg?url=https%3A%2F%2Fgithub.com%2FPepijnMC%2FElevationDragRuler%2Freleases%2Flatest%2Fdownload%2Fmodule.json&label=Foundry%20Version&query=$.compatibleCoreVersion&colorB=orange&style=for-the-badge)
 <a href='https://ko-fi.com/pepijn' target='_blank'><img src='https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-red?style=for-the-badge' alt='Buy Me a Coffee at ko-fi.com' />
 
 # DnD5e Drag Ruler Integration
